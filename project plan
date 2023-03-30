@@ -1,0 +1,66 @@
+Brain storm on the company name, the website name and about it.
+
+INDEX.HTML by Mercy
+THE LANDING PAGE--
+The Header (logo 
+nav bar: Home, about us, services, portfolio, contact us.)
+/coment
+
+The landing page (Home page with 4 slides): has the header on top displayed on flexbox and centralized with spaces in around,
+The Slides (first slide: A beautiful image of the website we have designed is on the left, and on the right will be the company name and contact button.
+Second slide will have logos we have created with the contact button on the right too
+The third slide will have pictures of interior decorations on the left side with the company's name and contact us button.
+The fourth slide will have the picture of an invitation card on the left and the company's name on the side with the contact us button.
+/*
+Still on the landing page will be the Services section, describing and showing pictures and read more link to the different works that will open on the same page without the footer
+Next rowline the portfolio section with the portfolio stuffs.
+next column under is the new Logo for your company with a direct description under it.
+next flexbox with lets get started your project with inscription under it. and lets talk button wrapped around it.
+next column is the about section
+next is the contact us section
+next row is the review page
+the the footer.
+
+/* ABOUT.HTML by everybody
+The About Us Page(it Will have a background image with a description box on it and a read more button on the description box. 
+And have a footer on the About me page.
+
+/* PORTFOLIO.HTML by Zimihekachim
+
+The Portfolio page and the footer:(will have a short description of the portfolio. then under will be a list of all the work we have done so far displayed on a grid style layout. with a background color that extends to the footer.
+The Footer will have icon links to social media pages, centralized, and under them will be a short description of about us, Instagram, need help, and contact us).
+Contact us at the portfolio footer will have a list at the right side with 1.location, 2.the phone, and 3.email.
+There should be an accent line below with the c all rights reserved by our team name under the accent line.
+
+/* SERVICES.HTML by Mercy
+
+Services section:- The service section must have "Services" written at the middle of the page (h1) 
+The services will have a big logo by the left, four boxes by the right, two boxes on the same line then the remaining two boxes should come under the first two boxes). 
+The first box should have a "website design" written on the box and it should hover on click. 
+The second box should have a "Logo design" written on it and it should hover on click. 
+The third box should have an "Interior design" written on it and it should hover on click as well. 
+The fourth box should have a "Visiting Card design" written on it and it should hover on click. 
+The Services section should also have a "Read More" in a box at the center of the page and it should also hover on click. 
+The service section must have the 'Contact us' footer with the following information: facebook icon, twitter icon, instagram icon and video icon.
+The icons must be at the top of the Contact us section and at the middle of the section
+The footer must also include: About us, Instagram, Need help and the Contact us.
+
+/*CONTACT.HTML by Zimihekachim
+
+CONTACT US PAGE: It should have the "CONTACT US" written in h1. 
+A map showing the location of the organisation should be embedded directly under the contact us. 
+Both Contact Us and the map should be aligned to the left.
+Then "WHAT OUR CLIENTS SAYS" should be written in h1 heading.
+a picture of a client in a card form should be under the h1 
+heading.
+A paragraph having the testimony of the clients should then follow. 
+All these should be aligned to the center.
+
+the contact us page should have a footer section.
+a facebook, twitter, linkedin and youtube icon with links embedded in them should be at the top of the footer.
+they should be aligned to the center of the footer.
+input span elements which will include (about us, instagram,  need help, contact us) with some texts under it.
+put them in flexboxes and flex direction column.
+
+contact us in the footer should have an icon for location, call, mail. all this icons should be in a box.
+it should display a grab cursor when you hover on the icons.
