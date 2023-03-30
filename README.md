@@ -8,4 +8,3 @@ We transform our various clients ideas into webpages, interior designs, cards, a
 
 ## AUTHORS:
 Mercy Nyong (nyongmercy@gmail.com)
-Zimihekachim Nzewi (lami.nzewi@gmail.com)
